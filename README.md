@@ -6,8 +6,8 @@ C++のテクニック集
 - ScopedPtr
 
 ## アルゴリズム(algorithm)
-+ copy
-+ copy_n
-+ for_each
+1. copy
+2. copy_n
+3. for_each
   
   
