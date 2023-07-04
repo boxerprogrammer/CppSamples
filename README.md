@@ -1,0 +1,2 @@
+# CppSamples
+C++のテクニック集
